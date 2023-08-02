@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../DataScience/Labs/Grupal/AlertasSismicas"
+		},
+		{
+			"name": "alertas_sismicas",
+			"path": "../../../DataScience/Labs/Grupal/AlertasSismicas/alertas_sismicas"
+		}
+	],
+	"settings": {}
+}
